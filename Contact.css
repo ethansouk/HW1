@@ -1,0 +1,15 @@
+a:hover{
+    color:blue;
+}
+.menu ul{
+    font-size: 20px;
+    list-style: none;
+}
+.menu ul a{
+    text-decoration: none;
+    color: black; 
+}
+
+.menu ul a:hover{
+    text-decoration:underline;
+}

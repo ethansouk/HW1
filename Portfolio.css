@@ -1,0 +1,36 @@
+.Mexico{
+    width: 300px;
+}
+.Arch{
+    width: 300px;
+}
+.Grandma{
+    width: 300px;
+}
+.Bridge{
+    width: 300px;
+}
+.City{
+    width: 300px;
+}
+.Hotel{
+    width: 300px;
+}
+th{
+    font-size: 20px;
+}
+body{
+    background-color:gray;
+}
+.menu ul{
+    font-size: 20px;
+    list-style: none;
+}
+.menu ul a{
+    text-decoration: none;
+    color: black; 
+}
+
+.menu ul a:hover{
+    text-decoration:underline;
+}
